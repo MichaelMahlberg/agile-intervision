@@ -1,7 +1,7 @@
 ## Agile Intervision
 ## – In-person Facilitation Format –
 ## version 1.0
-(CC BY-NC-SA 4.0) 2016 Michael Malhberg, David Schmithüsen, Falk Kühnel
+(CC BY-NC-SA 4.0) 2016 [Michael Malhberg](http://www.michaelmahlberg.de), [David Schmithüsen](http://agile-impulse.de), [Falk Kühnel](http://twitter.com/agiledivider)
 Licensed under Creative Commons, some rights reserved. Please use with attribution.
 
 
